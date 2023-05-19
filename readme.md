@@ -1,7 +1,7 @@
 # node-rest-api
 
 ## About
-**Online hotel service for register user.**
+**Online shop service for register user.**
 **The Rest-Api was created for user Sign up, Login to create product and place the order for already available product on database server Mongodb.**
 **In this i used Express as a server and Mongodb Atlas as a Database storage for Authentication and token generation we use JWT**
 
