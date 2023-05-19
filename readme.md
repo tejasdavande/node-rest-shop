@@ -1,4 +1,4 @@
-# Hotel Server
+# node-rest-api
 
 ## About
 **Online hotel service for register user.**
